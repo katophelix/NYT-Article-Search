@@ -1,52 +1,21 @@
-# new-york-times
-New York Times Article Search - Phase 01
-Front-End Team
-Create the layout for the design above. Feel free to use Bootstrap or to do something more customized of your own.
+# New York Times Article Search
 
-Make sure to organize your code so as to have the necessary IDs.
+![Video](https://user-images.githubusercontent.com/32774089/40668107-adb4354e-6331-11e8-9bd8-db6e4e9fd54a.gif)
 
-Incorporate text boxes for capturing User Input. Then research how to retrieve the input values in JavaScript
+Search the New York Times for any article
+![Screen Shot](assets/images/scrn.gif)
 
-Back-End Team
-Do preliminary research on the API.
+Choose the number of articles to display
+![Screen Shot](assets/images/scrn2.gif)
 
-Register for an API Key.
 
-Understand what format the URL should look like to make an Article Call. (Hint: Use the API Console!!)
+Scroll down to see your articles
+![Screen Shot](assets/images/scrn3.gif)
+Using the NYT API
 
-Experiment with console logging various fields.
 
-New York Times Article Search - Phase 02
-Front-End Team
-Begin creating basic click events. Register the submit button
 
-Create working transfers of data between the text-boxes and the backend.
 
-Experiment with creating content regions for where the article will go.
 
-Back-End Team
-Create the AJAX call needed to retrieve data then console.log all of the relevant fields.
 
-Incorporate various “optional parameters” (hard code these in initially).
 
-Take note of various “bugs” that appear with certain searches.
-
-All-Together
-Display the HTML content!!
-
-New York Times Article Search - Phase 03
-Front-End Team
-Continue polishing the display of content in the HTML.
-
-Consider adding styling or other jQuery tricks.
-
-Consider using Bootswatch and/or Font Awesome to add more visual appeal
-
-Back-End Team
-Put in a hard-effort to deal with bugs. How can you handle missing fields?
-
-New York Times Article Search - Phase 04
-All-Together
-Deploy your app to GitHub Pages!
-
-Then slack your links to your instructors + TAs
